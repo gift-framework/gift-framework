@@ -1,4 +1,4 @@
-# GIFT -- Geometric Information Field Theory
+# Geometric Information Field Theory
 
 A theoretical physics framework that derives Standard Model constants from the topology of an E8xE8 compactification on a G2-holonomy 7-manifold.
 
@@ -50,4 +50,4 @@ The framework proposes that the 19+ free parameters of the Standard Model may be
 
 ---
 
-*GIFT is an independent research project by Brieuc de La Fourniere, developed in collaboration with AI systems. The framework remains a proposal -- interesting, internally consistent, but open to falsification. Testable predictions include a delta_CP value measurable by DUNE in the 2030s.*
+*GIFT FROM BIT

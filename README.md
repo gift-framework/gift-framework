@@ -10,7 +10,7 @@ A theoretical physics framework that derives Standard Model constants from the t
 
 | Repository | Description |
 |------------|-------------|
-| [**core**](https://github.com/gift-framework/core) | Lean 4 formalization -- 146 files, 455+ certified relations, 0 incomplete proofs. Also hosts `giftpy`, the Python package ([PyPI](https://pypi.org/project/gift-core/)). |
+| [**core**](https://github.com/gift-framework/core) | Lean 4 formalization - 146 files, 455+ certified relations, 0 incomplete proofs. Also hosts `giftpy` ([PyPI](https://pypi.org/project/gift-core/)). |
 | [**GIFT**](https://github.com/gift-framework/GIFT) | Publications, documentation, and statistical validation code for the framework (v3.3). |
 
 ## Follow

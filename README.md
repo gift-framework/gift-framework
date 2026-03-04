@@ -49,7 +49,5 @@ The framework proposes that the 19+ free parameters of the Standard Model may be
 - [Zenodo](https://doi.org/10.5281/zenodo.18837071) -- Canonical publications
 
 ---
-
----
-> *GIFT FROM BIT*
+> GIFT FROM BIT
 ---

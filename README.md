@@ -50,4 +50,6 @@ The framework proposes that the 19+ free parameters of the Standard Model may be
 
 ---
 
-*GIFT FROM BIT
+---
+> *GIFT FROM BIT*
+---

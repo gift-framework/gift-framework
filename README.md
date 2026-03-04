@@ -13,6 +13,13 @@ A theoretical physics framework that derives Standard Model constants from the t
 | [**core**](https://github.com/gift-framework/core) | Lean 4 formalization -- 146 files, 455+ certified relations, 0 incomplete proofs. Also hosts `giftpy`, the Python package ([PyPI](https://pypi.org/project/gift-core/)). |
 | [**GIFT**](https://github.com/gift-framework/GIFT) | Publications, documentation, and statistical validation code for the framework (v3.3). |
 
+## Follow
+
+| | |
+|---|---|
+| [giftheory.substack.com](https://giftheory.substack.com) | Essays on topology, physics, and the research process |
+| [@GIFTheory](https://x.com/GIFTheory) | Automated facts from the framework, twice a week |
+
 ## Published Papers
 
 - **GIFT v3.3** -- Framework for Standard Model Unification Through E8xE8 Dimensional Reduction

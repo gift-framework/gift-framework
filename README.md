@@ -25,7 +25,7 @@ A theoretical physics framework that derives Standard Model constants from the t
 - **GIFT v3.3** -- Framework for Standard Model Unification Through E8xE8 Dimensional Reduction
   DOI: [10.5281/zenodo.18837071](https://doi.org/10.5281/zenodo.18837071)
 
-- **Explicit G2 Metric** -- First Explicit G2 Holonomy Metric on a Compact TCS 7-Manifold
+- **Explicit G2 Metric** -- Explicit G2 Holonomy Metric on a Compact TCS 7-Manifold
   DOI: [10.5281/zenodo.18860358](https://doi.org/10.5281/zenodo.18860358)
 
 ## Key Results

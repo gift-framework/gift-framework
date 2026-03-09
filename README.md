@@ -10,7 +10,7 @@ A theoretical physics framework that derives Standard Model constants from the t
 
 | Repository | Description |
 |------------|-------------|
-| [**core**](https://github.com/gift-framework/core) | Lean 4 formalization: 125 files, 455+ certified relations, 48 axioms, 0 incomplete proofs. Also hosts ([GiftPy](https://pypi.org/project/gift-core/)). |
+| [**core**](https://github.com/gift-framework/core) | Lean 4 formalization: 125 files, 455+ certified relations, 48 axioms, 0 incomplete proofs. Also hosts [GiftPy](https://pypi.org/project/gift-core/). |
 | [**GIFT**](https://github.com/gift-framework/GIFT) | Publications, documentation, and statistical validation code for the framework (v3.3). |
 
 ## Follow
@@ -55,5 +55,6 @@ The framework proposes that the 19+ free parameters of the Standard Model may be
 ---
 > GIFT FROM BIT
 ---
+
 
 

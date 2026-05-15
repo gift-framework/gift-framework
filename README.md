@@ -1,8 +1,8 @@
 # Geometric Information Field Theory
 
-A theoretical physics framework that derives Standard Model constants from the topology of an E8xE8 compactification on a G2-holonomy 7-manifold.
+A theoretical physics framework that derives Standard Model parameters from the geometry of a single 7-dimensional manifold: E₈×E₈ gauge theory compactified on a G₂-holonomy manifold K₇ with Betti numbers (b₂, b₃) = (21, 77).
 
-33 dimensionless predictions from fixed topological structure. No free parameters.
+No free parameters. No fitting. Every prediction is a consequence of shape.
 
 ---
 
@@ -10,51 +10,57 @@ A theoretical physics framework that derives Standard Model constants from the t
 
 | Repository | Description |
 |------------|-------------|
-| [**core**](https://github.com/gift-framework/core) | Lean 4 formalization: 125 files, 455+ certified relations, 48 axioms, 0 incomplete proofs. Also hosts [GiftPy](https://pypi.org/project/gift-core/). |
-| [**GIFT**](https://github.com/gift-framework/GIFT) | Publications, documentation, and statistical validation code for the framework (v3.3). |
+| [**GIFT**](https://github.com/gift-framework/GIFT) | Framework v3.4: publications (main + 3 supplements + 4 companion papers), documentation, statistical validation. |
+| [**core**](https://github.com/gift-framework/core) | Lean 4 formalization: 144 files, 460+ certified relations, 15 axioms (4 main-chain + 11 interval-arithmetic), 0 sorry. Hosts [GiftPy](https://pypi.org/project/giftpy/). |
 
 ## Follow
 
 | | |
 |---|---|
 | [giftheory.substack.com](https://giftheory.substack.com) | Essays on topology, physics, and the research process |
+| [@giftheory](https://youtube.com/@giftheory) | Video introductions to the framework |
 | [@GIFTheory](https://x.com/GIFTheory) | Automated facts from the framework, twice a week |
 
 ## Published Papers
 
-- **GIFT v3.3** — Framework for Standard Model Unification Through E8xE8 Dimensional Reduction
-  DOI: [10.5281/zenodo.18837071](https://doi.org/10.5281/zenodo.18837071)
+- **GIFT v3.4** — Standard Model Parameters as Topological Invariants of a G₂ Holonomy Manifold
+  DOI: [10.5281/zenodo.20070101](https://doi.org/10.5281/zenodo.20070101)
 
-- **Explicit G2 Metric** — Explicit G2 Holonomy Metric on a Compact TCS 7-Manifold
-  DOI: [10.5281/zenodo.18860358](https://doi.org/10.5281/zenodo.18860358)
+- **Paper A** — A Certified Torsion-Free G₂ Structure on a TCS Neck Model (computer-assisted proof)
+  DOI: [10.5281/zenodo.19892350](https://doi.org/10.5281/zenodo.19892350)
 
-- **Spectral Geometry** — Spectral Geometry of an Explicit G2 Metric: Kaluza-Klein Spectrum, Gauge Unification, and Yukawa Hierarchy
-  DOI: [10.5281/zenodo.18920368](https://doi.org/10.5281/zenodo.18920368)
+- **Paper B** — Spectral Geometry of an Explicit G₂ Metric: Laplacian Spectrum and Harmonic Forms
+  DOI: [10.5281/zenodo.19893371](https://doi.org/10.5281/zenodo.19893371)
+
+- **Paper C** — Newton–Kantorovich Diagnostics on a Donaldson K3 Metric
+  DOI: [10.5281/zenodo.19708916](https://doi.org/10.5281/zenodo.19708916)
+
+- **Paper D** — Donaldson Analytic Note: explicit closed-form G₂ ansatz with Wirtinger certificate
+  DOI: [10.5281/zenodo.20039066](https://doi.org/10.5281/zenodo.20039066)
 
 ## Key Results
 
-The framework proposes that the 19+ free parameters of the Standard Model may be derivable from topological invariants of a compact 7-manifold K7 with G2 holonomy (b2 = 21, b3 = 77) and gauge group E8xE8 (dim = 496).
+The framework proposes that the free parameters of the Standard Model may be derivable from topological invariants of a compact 7-manifold K₇ with G₂ holonomy (b₂ = 21, b₃ = 77) and gauge group E₈×E₈ (dim = 496).
 
-- 33 dimensionless observables derived from topology, 0.24% mean deviation from experiment (PDG 2024 / NuFIT 6.0)
-- Exhaustive search over 3,070,396 topological configurations confirms statistical significance
-- 169-parameter analytical G2 metric on the full TCS manifold, certified via Newton-Kantorovich (h = 6.65e-8)
-- First eigenvalue computation on a compact G2 manifold: Kaluza-Klein spectrum, Yukawa hierarchy, gauge unification
-- Lean 4 formalization with modular certificate: Foundations (28), Predictions (48), Spectral (33) conjuncts
+- 95 observables derived from topology (35 Type I + 19 Type II + 21 Type III + 22 Type IV); zero adjustable parameters (3 integer primitives: N=3, r₈=8, r₂=2)
+- 0.39% mean deviation on the 35 exact-target relations; 0.97% across all 66 observables with experimental comparison (PDG 2024 / NuFIT 6.0)
+- Exhaustive search over 3,070,396 topological configurations: (21, 77) ranks #1, zero better alternatives (log₁₀ p_algebraic = −138)
+- Analytical G₂ metric on the constant-form sector: φ = (65/32)^{1/14} φ₀, T = 0 (exact); certified torsion-free completion on a TCS neck model via Newton–Kantorovich
+- Lean 4 formalization: 144 files, 460+ certified relations, 15 axioms, 0 sorry
 
 ## Citations
 
-- Heyes, Hirst, Sa Earp, Silva — *Neural G2 metrics* (arXiv: [2602.12438](https://arxiv.org/abs/2602.12438)), Imperial College London / UNICAMP
+- Heyes, Hirst, Sá Earp, Silva — *Neural G2 metrics* (arXiv: [2602.12438](https://arxiv.org/abs/2602.12438)), Imperial College London / UNICAMP
+- Zhou & Zhou — *Algebraic Stability and Cosmological Structure* (2026): derive (b₂, b₃) = (21, 77) from self-referential dynamics, citing GIFT as empirical motivation
 - Mamun — *The Void Paradox: Towards a Universal Coordinate System for Information Reality* (2026), University of Oxford
+- Cabannas & Silva — *The Modal Discipline of Objectivity* (2026), UFBA / UFMA, Brazil: an epistemological reading of the GIFT framework
 
 ## Resources
 
 - [Blueprint](https://gift-framework.github.io/core/) — Lean formalization dependency graph
-- [giftpy on PyPI](https://pypi.org/project/gift-core/) — `pip install gift-core`
-- [Zenodo](https://doi.org/10.5281/zenodo.18837071) — Canonical publications
+- [giftpy on PyPI](https://pypi.org/project/giftpy/) — `pip install giftpy`
+- [Zenodo](https://doi.org/10.5281/zenodo.20070101) — Canonical publications (framework v3.4)
 
 ---
 > GIFT FROM BIT
 ---
-
-
-

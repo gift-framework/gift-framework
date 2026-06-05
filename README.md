@@ -1,5 +1,9 @@
 # Geometric Information Field Theory
 
+[![giftpy on PyPI](https://img.shields.io/pypi/v/giftpy?label=giftpy&color=blue)](https://pypi.org/project/giftpy/)
+[![Lean 4 verified](https://github.com/gift-framework/core/actions/workflows/verify.yml/badge.svg)](https://github.com/gift-framework/core/actions/workflows/verify.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gift-framework/core/blob/main/LICENSE)
+
 **What if physics isn't fine-tuned, just well-shaped?**
 
 GIFT explores whether the dimensionless parameters of the Standard Model may be
@@ -104,6 +108,11 @@ print(TAU)            # Fraction(3472, 891)
 - [Blueprint](https://gift-framework.github.io/core/) — Lean formalization dependency graph
 - [giftpy on PyPI](https://pypi.org/project/giftpy/) — `pip install giftpy`
 - [Zenodo](https://doi.org/10.5281/zenodo.20070101) — canonical publications (framework v3.4)
+
+---
+
+If this resonates, **star the repos** so others find it. Try it in ten seconds with
+`pip install giftpy`, and follow the story on [Substack](https://giftheory.substack.com).
 
 ---
 > GIFT FROM BIT

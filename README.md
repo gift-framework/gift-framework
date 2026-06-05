@@ -36,6 +36,8 @@ data of K₇ that fix the integers entering the parameter-free core.*
   observables total, 66 with experimental data.
   *(NuFIT 6.1 / PDG 2024 / Planck 2018 / CODATA 2022 · core v3.4.26)*
 
+---
+
 > **Cited in the peer-reviewed literature.** Heyes, Hirst, Sá Earp & Silva,
 > *Phys. Lett. B* **878** (2026) 140566 (Imperial College London / UNICAMP)
 >

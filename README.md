@@ -41,7 +41,7 @@ data of K₇ that fix the integers entering the parameter-free core.*
 > **Cited in the peer-reviewed literature.** Heyes, Hirst, Sá Earp & Silva,
 > *Phys. Lett. B* **878** (2026) 140566 (Imperial College London / UNICAMP)
 >
-> Invited remote participant, "DANGER: Data, Numbers, and Geometry" workshop
+> **Invited remote participant**, "DANGER: Data, Numbers, and Geometry" workshop
 > *Banff International Research Station (BIRS)*, April 5–10, 2026. 
 
 ---

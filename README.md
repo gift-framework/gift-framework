@@ -4,6 +4,8 @@
 [![Lean 4 verified](https://github.com/gift-framework/core/actions/workflows/verify.yml/badge.svg)](https://github.com/gift-framework/core/actions/workflows/verify.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gift-framework/core/blob/main/LICENSE)
 
+Part of the **[Arithmon program](https://github.com/arithmon)** — the hypothesis that the constants of nature are counts.
+
 **What if physics isn't fine-tuned, just well-shaped?**
 
 GIFT explores whether the dimensionless parameters of the Standard Model may be
@@ -81,7 +83,7 @@ print(TAU)            # Fraction(3472, 891)
 
 | | |
 |---|---|
-| [giftheory.substack.com](https://giftheory.substack.com) | Essays on topology, physics, and the research process |
+| [arithmon.substack.com](https://arithmon.substack.com) | Essays on topology, physics, and the research process |
 | [@giftheory](https://youtube.com/@giftheory) | Video introductions to the framework |
 | [@GIFTheory](https://x.com/GIFTheory) | Automated facts from the framework, twice a week |
 
@@ -116,8 +118,10 @@ print(TAU)            # Fraction(3472, 891)
 ---
 
 If this resonates, **star the repos** so others find it. Try it in ten seconds with
-`pip install giftpy`, and follow the story on [Substack](https://giftheory.substack.com).
+`pip install giftpy`, and follow the story on [Substack](https://arithmon.substack.com).
 
 ---
+> **GIFT is the founding framework of the [Arithmon program](https://github.com/arithmon).**
+>
 > GIFT FROM BIT
 ---

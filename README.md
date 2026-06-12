@@ -84,7 +84,7 @@ print(TAU)            # Fraction(3472, 891)
 | | |
 |---|---|
 | [arithmon.substack.com](https://arithmon.substack.com) | Essays on topology, physics, and the research process |
-| [@giftheory](https://youtube.com/@giftheory) | Video introductions to the framework |
+| [@arithmon](https://youtube.com/@arithmon) | Video introductions to the framework |
 | [@GIFTheory](https://x.com/GIFTheory) | Automated facts from the framework, twice a week |
 
 ---

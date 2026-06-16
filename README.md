@@ -34,7 +34,7 @@ data of K₇ that fix the integers entering the parameter-free core.*
 - **Non-generic** — among 3,000,000 random algebraic formula *sets* drawn from the
   framework's own vocabulary, none reproduces its joint profile (set-level upper
   bound ≈ 10⁻⁶, no independence assumption).
-- *Precision (secondary):* 0.92% mean deviation on the 33 Type-I relations; 95
+- *Precision (secondary):* 0.99% mean deviation on the 33 Type-I relations; 95
   observables total, 66 with experimental data.
   *(NuFIT 6.1 / PDG 2024 / Planck 2018 / CODATA 2022 · core v3.4.26)*
 
@@ -53,7 +53,7 @@ data of K₇ that fix the integers entering the parameter-free core.*
 | ✅ Proven (Lean 4) | 🔢 Computed (numeric) | 🔭 Conjectured | ⚖️ Falsifies |
 |---|---|---|---|
 | 33 exact relations among topological integers | Closed-form K3 metric witness, order-3 ansatz | E₈×E₈ → K₇ compactification realizes the SM | δ_CP = 197° → DUNE (2028–2040) |
-| K3 interval certificates (Krawczyk containment, variance envelope ≤ 1321/10⁷) | 95-observable table, 0.92% mean deviation (Type I) | Full smooth compact G₂ analytic construction of (21, 77) — **open** | θ₂₃ in the upper octant → DUNE / NuFIT |
+| K3 interval certificates (Krawczyk containment, variance envelope ≤ 1321/10⁷) | 95-observable table, 0.99% mean deviation (Type I) | Full smooth compact G₂ analytic construction of (21, 77) — **open** | θ₂₃ in the upper octant → DUNE / NuFIT |
 | G₂ lattice & isotype certificates · **0 `sorry`** | Volume-form residual certified interval-rigorous on a frozen box-local witness | Physical reading of the topological coupling κ_T | N_gen = 3 |
 
 ---

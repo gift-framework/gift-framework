@@ -1,5 +1,29 @@
 # Geometric Information Field Theory
 
+> ## The repositories have moved to the [Arithmon](https://github.com/Arithmon) organisation
+>
+> | Was | Now |
+> |---|---|
+> | `gift-framework/GIFT` | **[`Arithmon/K7`](https://github.com/Arithmon/K7)** |
+> | `gift-framework/core` | **[`Arithmon/K7-Lean`](https://github.com/Arithmon/K7-Lean)** *(move pending)* |
+>
+> The framework is now presented as the **K₇ framework**; *GIFT* remains the name of its
+> founding phase.
+>
+> Old URLs redirect — web, and `git clone` / `fetch` / `push` alike. The documentation site
+> is the one exception: it now lives at [`arithmon.github.io/K7`](https://arithmon.github.io/K7/).
+>
+> ### Do not recreate repositories named `GIFT` or `core` under this account
+>
+> Recreating a repository under an old name **destroys the GitHub redirect for that name,
+> instantly and irreversibly**. The published papers — immutable PDFs on Zenodo — cite
+> `github.com/gift-framework/core` more than forty times. Those redirects are not a
+> convenience; they are the infrastructure that keeps the published record resolvable.
+> This account is a headstone. Nothing gets built here again.
+
+---
+
+
 [![giftpy on PyPI](https://img.shields.io/pypi/v/giftpy?label=giftpy&color=blue)](https://pypi.org/project/giftpy/)
 [![Lean 4 verified](https://github.com/gift-framework/core/actions/workflows/verify.yml/badge.svg)](https://github.com/gift-framework/core/actions/workflows/verify.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gift-framework/core/blob/main/LICENSE)

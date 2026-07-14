@@ -86,7 +86,7 @@ data of K₇ that fix the integers entering the parameter-free core.*
 
 | | |
 |---|---|
-| 🌍 **Curious?** | [**→ GIFT**](https://github.com/gift-framework/GIFT) — the framework, plain-language guides, documentation, statistical validation |
+| 🌍 **Curious?** | [**→ Arithmon/K7**](https://github.com/Arithmon/K7) — the framework (formerly GIFT), plain-language guides, documentation, statistical validation |
 | 📐 **Want the proofs?** | [**→ core**](https://github.com/gift-framework/core) — the Lean 4 formalization and `giftpy` |
 
 ```bash

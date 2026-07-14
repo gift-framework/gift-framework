@@ -15,13 +15,6 @@
 > [`arithmon.github.io/K7`](https://arithmon.github.io/K7/) and the Lean blueprint at
 > [`arithmon.github.io/K7-Lean`](https://arithmon.github.io/K7-Lean/).
 >
-> ### Do not recreate repositories named `GIFT` or `core` under this account
->
-> Recreating a repository under an old name **destroys the GitHub redirect for that name,
-> instantly and irreversibly**. The published papers — immutable PDFs on Zenodo — cite
-> `github.com/gift-framework/core` more than forty times. Those redirects are not a
-> convenience; they are the infrastructure that keeps the published record resolvable.
-> This account is a headstone. Nothing gets built here again.
 
 ---
 

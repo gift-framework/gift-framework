@@ -5,13 +5,15 @@
 > | Was | Now |
 > |---|---|
 > | `gift-framework/GIFT` | **[`Arithmon/K7`](https://github.com/Arithmon/K7)** |
-> | `gift-framework/core` | **[`Arithmon/K7-Lean`](https://github.com/Arithmon/K7-Lean)** *(move pending)* |
+> | `gift-framework/core` | **[`Arithmon/K7-Lean`](https://github.com/Arithmon/K7-Lean)** |
 >
 > The framework is now presented as the **K₇ framework**; *GIFT* remains the name of its
 > founding phase.
 >
-> Old URLs redirect — web, and `git clone` / `fetch` / `push` alike. The documentation site
-> is the one exception: it now lives at [`arithmon.github.io/K7`](https://arithmon.github.io/K7/).
+> Old URLs redirect — web, and `git clone` / `fetch` / `push` alike. The GitHub Pages sites
+> are the one exception: the documentation now lives at
+> [`arithmon.github.io/K7`](https://arithmon.github.io/K7/) and the Lean blueprint at
+> [`arithmon.github.io/K7-Lean`](https://arithmon.github.io/K7-Lean/).
 >
 > ### Do not recreate repositories named `GIFT` or `core` under this account
 >
@@ -25,8 +27,8 @@
 
 
 [![giftpy on PyPI](https://img.shields.io/pypi/v/giftpy?label=giftpy&color=blue)](https://pypi.org/project/giftpy/)
-[![Lean 4 verified](https://github.com/gift-framework/core/actions/workflows/verify.yml/badge.svg)](https://github.com/gift-framework/core/actions/workflows/verify.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gift-framework/core/blob/main/LICENSE)
+[![Lean 4 verified](https://github.com/Arithmon/K7-Lean/actions/workflows/verify.yml/badge.svg)](https://github.com/Arithmon/K7-Lean/actions/workflows/verify.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Arithmon/K7-Lean/blob/main/LICENSE)
 
 Part of the **[Arithmon program](https://github.com/arithmon)** — the hypothesis that the constants of nature are counts.
 
@@ -87,7 +89,7 @@ data of K₇ that fix the integers entering the parameter-free core.*
 | | |
 |---|---|
 | 🌍 **Curious?** | [**→ Arithmon/K7**](https://github.com/Arithmon/K7) — the framework (formerly GIFT), plain-language guides, documentation, statistical validation |
-| 📐 **Want the proofs?** | [**→ core**](https://github.com/gift-framework/core) — the Lean 4 formalization and `giftpy` |
+| 📐 **Want the proofs?** | [**→ Arithmon/K7-Lean**](https://github.com/Arithmon/K7-Lean) — the Lean 4 formalization and `giftpy` (formerly core) |
 
 ```bash
 pip install giftpy
@@ -135,7 +137,7 @@ print(TAU)            # Fraction(3472, 891)
 
 ## Resources
 
-- [Blueprint](https://gift-framework.github.io/core/) — Lean formalization dependency graph
+- [Blueprint](https://arithmon.github.io/K7-Lean/) — Lean formalization dependency graph
 - [giftpy on PyPI](https://pypi.org/project/giftpy/) — `pip install giftpy`
 - [Zenodo](https://doi.org/10.5281/zenodo.20070101) — canonical publications (framework v3.4)
 

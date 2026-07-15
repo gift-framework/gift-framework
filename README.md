@@ -140,7 +140,11 @@ If this resonates, **star the repos** so others find it. Try it in ten seconds w
 `pip install giftpy`, and follow the story on [Substack](https://arithmon.substack.com).
 
 ---
-> **GIFT is the founding framework of the [Arithmon program](https://github.com/arithmon).**
+
 >
 > GIFT FROM BIT
+>
+
 ---
+
+**GIFT is the founding framework of the [Arithmon program](https://github.com/arithmon).**

@@ -1,7 +1,3 @@
-# Geometric Information Field Theory
-
-![The dimensional-reduction chain G₂ ⊃ SU(3) ⊃ SU(2) ⊃ U(1) and the topological data of K₇](assets/hero_stabilizer_chain.png)
-
 **The repositories of this account have moved to the
 [Arithmon](https://github.com/Arithmon) organisation.** This page is a signpost.
 Everything current lives there.
